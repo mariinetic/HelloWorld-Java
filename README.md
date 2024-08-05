@@ -1,0 +1,1 @@
+O programa Java "HelloWorld" imprime uma mensagem de boas-vindas personalizada, incluindo meu nome como usuária, minha idade e meu curso. O objetivo foi apresentar os fundamentos da linguagem Java e do ambiente de desenvolvimento.
